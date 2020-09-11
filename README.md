@@ -1,6 +1,6 @@
 Open Source Basic
 =================
-intruduce!
+introduce!
 ----------
 
  *Name*
